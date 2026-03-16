@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "Python_Laba_2_2"
 version = "0.1.0"
-description = "Лабораторная работа №2: "
+description = "Лабораторная работа №2: Модель задачи: дескрипторы и @property"
 authors = [
     {name = "Sleptsov Misha", email = "-"}
 ]
